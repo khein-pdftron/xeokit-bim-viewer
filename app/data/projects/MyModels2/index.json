@@ -1,0 +1,23 @@
+{
+    "id": "myModel2",
+    "name": "MyModel2",
+    "models": [
+        {
+            "id": "design",
+            "name": "MyModel2 Design"
+        }
+    ],
+    "viewerConfigs": {
+    },
+    "viewerContent": {
+        "modelsLoaded": [
+            "design"
+        ]
+    },
+    "viewerState": {
+        "tabOpen": "classes",
+        "expandObjectsTree": 1,
+        "expandClassesTree": 1,
+        "expandStoreysTree": 1
+    }
+}
