@@ -1,6 +1,10 @@
 {
   "projects": [
     {
+      "id": "MyModels",
+      "name": "MyModels"
+    },    
+    {
       "id": "Duplex",
       "name": "Duplex"
     },
